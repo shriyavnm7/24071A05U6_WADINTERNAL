@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="b1" category="Fiction">
+        <title>Harry Porter</title>
+        <author>Rowling</author>
+        <publisher>HarperTorch</publisher>
+        <price>350</price>
+        <year>1988</year>
+    </book>
+
+    <book id="b2" category="Programming">
+        <title>Java Complete Reference</title>
+        <author>Herbert Schildt</author>
+        <publisher>McGraw Hill</publisher>
+        <price>650</price>
+        <year>2021</year>
+    </book>
+</bookstore>
