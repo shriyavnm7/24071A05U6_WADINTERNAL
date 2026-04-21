@@ -31,6 +31,22 @@ Screenshots include:
 - valid XSD output  
 - invalid XSD output  
 - folder structure  
+## Output
+
+### Valid DTD
+![Valid DTD](screenshots/dtd-valid.jpeg)
+
+### Invalid DTD
+![Invalid DTD](screenshots/dtd-error.jpeg)
+
+### Valid XSD
+![Valid XSD](screenshots/xsd-valid.jpeg)
+
+### Invalid XSD
+![Invalid XSD](screenshots/xsd-error.jpeg)
+
+### Folder Structure
+![Folder Structure](screenshots/folder-structure.jpeg)
 
 ## Conclusion
 
